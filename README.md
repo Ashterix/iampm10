@@ -1,4 +1,4 @@
-# iampm10
+# Simple example for IAMPM
 Test repo for iampm
 
 ## test title
